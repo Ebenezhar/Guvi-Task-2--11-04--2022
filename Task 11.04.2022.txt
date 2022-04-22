@@ -1,0 +1,7 @@
+Statically typed Language:
+	Datatype of the variables known at the type of compile. Means that programmer shoud specify the datatypes to the variables.It will help the progrmmer to rectify the errors at the earlier stage.
+Eg: C, C++, Java, Rust, Go, Scala
+
+Dynamically typed Language:
+	Datatypes not required to mention everytime in the code. so the programmer can write the code little quicker.
+Eg: erl, Ruby, Python, PHP, JavaScript, Erlang
